@@ -1,23 +1,23 @@
 # DEVELOPING A BOOK STORY APP
 
-# 1. created a mMongoDB database
+# 1. created a MongoDB database
  - created a cluster
  - created database
  - set up the network
  - click on connect to get the Url to connect to data base
 
 # 2. install dependencies for our application
-    "connect-mongo": "^3.2.0",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "express-handlebars": "^5.0.0",
-    "express-session": "^1.17.1",
-    "method-override": "^3.0.0",
-    "moment": "^2.27.0",
-    "mongoose": "^5.9.22",
-    "morgan": "^1.10.0",
-    "passport": "^0.4.1",
-    "passport-google-oauth20": "^2.0.0"
+   - "connect-mongo": "^3.2.0",
+   - "dotenv": "^8.2.0",
+   - "express": "^4.17.1",
+   - "express-handlebars": "^5.0.0",
+   - "express-session": "^1.17.1",
+   - "method-override": "^3.0.0",
+   - "moment": "^2.27.0",
+   - "mongoose": "^5.9.22",
+   - "morgan": "^1.10.0",
+   - "passport": "^0.4.1",
+   - "passport-google-oauth20": "^2.0.0"
 
 # 3. updated package.json
     - updated the scripts command to show how and where our application will start
